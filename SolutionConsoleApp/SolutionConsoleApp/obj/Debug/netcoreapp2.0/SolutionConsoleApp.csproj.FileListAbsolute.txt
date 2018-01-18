@@ -1,0 +1,11 @@
+C:\Users\Gamer\Desktop\C# Codes\2018\January\16-01-2018\SolutionConsoleApp\SolutionConsoleApp\obj\Debug\netcoreapp2.0\SolutionConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\16-01-2018\SolutionConsoleApp\SolutionConsoleApp\obj\Debug\netcoreapp2.0\SolutionConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\16-01-2018\SolutionConsoleApp\SolutionConsoleApp\obj\Debug\netcoreapp2.0\SolutionConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\16-01-2018\SolutionConsoleApp\SolutionConsoleApp\obj\Debug\netcoreapp2.0\SolutionConsoleApp.AssemblyInfo.cs
+C:\Users\Gamer\Desktop\C# Codes\2018\January\16-01-2018\SolutionConsoleApp\SolutionConsoleApp\bin\Debug\netcoreapp2.0\SolutionConsoleApp.deps.json
+C:\Users\Gamer\Desktop\C# Codes\2018\January\16-01-2018\SolutionConsoleApp\SolutionConsoleApp\bin\Debug\netcoreapp2.0\SolutionConsoleApp.runtimeconfig.json
+C:\Users\Gamer\Desktop\C# Codes\2018\January\16-01-2018\SolutionConsoleApp\SolutionConsoleApp\bin\Debug\netcoreapp2.0\SolutionConsoleApp.runtimeconfig.dev.json
+C:\Users\Gamer\Desktop\C# Codes\2018\January\16-01-2018\SolutionConsoleApp\SolutionConsoleApp\bin\Debug\netcoreapp2.0\SolutionConsoleApp.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\January\16-01-2018\SolutionConsoleApp\SolutionConsoleApp\bin\Debug\netcoreapp2.0\SolutionConsoleApp.pdb
+C:\Users\Gamer\Desktop\C# Codes\2018\January\16-01-2018\SolutionConsoleApp\SolutionConsoleApp\obj\Debug\netcoreapp2.0\SolutionConsoleApp.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\January\16-01-2018\SolutionConsoleApp\SolutionConsoleApp\obj\Debug\netcoreapp2.0\SolutionConsoleApp.pdb
